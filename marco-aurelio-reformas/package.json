@@ -1,0 +1,18 @@
+{
+  "name": "marco-aurelio-reformas",
+  "version": "1.0.0",
+  "description": "Site estático (HTML + CSS + JavaScript puro) para divulgação dos serviços de Marco Aurélio Fernandes da Silva — drywall, alvenaria, revestimentos e elétrica — com foco em gerar pedidos de orçamento pelo WhatsApp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}
