@@ -39,7 +39,7 @@
       }
 
       var mensagem =
-        "Olá, Marco Aurélio! Encontrei seu site e gostaria de solicitar um orçamento.\n\n" +
+        "Olá, Stilo Drywall! Encontrei seu site e gostaria de solicitar um orçamento.\n\n" +
         "Serviço: " + tipoServico + "\n" +
         "Descrição: " + descricao + "\n" +
         "Local: " + local;
